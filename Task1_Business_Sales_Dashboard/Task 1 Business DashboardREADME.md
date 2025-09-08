@@ -1,3 +1,11 @@
+## 📊 Dashboard Preview
+
+Here is the Business Sales Dashboard built in Power BI:
+
+![Business Sales Dashboard](Dashboard.png)
+
+➡️ For full interactivity, download the `.pbix` file from this folder and open it in Power BI Desktop.
+
 # 📊 Task 1 – Business Sales Dashboard  
 
 ## 🔍 About the Task  
